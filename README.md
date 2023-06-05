@@ -24,6 +24,7 @@ It was created for ThermaSolutions, a medical device manufacturer in Minnesota.
 
 ## Heroku Deployment
 **This app is meant to be viewed on a mobile device after scanning a QR code. For the best experience, use a mobile device or change your browser screen size to mobile dimensions.**
+<br />
 https://nameless-reaches-56635.herokuapp.com/#/home/1
 
 
