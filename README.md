@@ -20,7 +20,12 @@
 
 ThermaSolutions Product Inquiry App is a standalone application designed to simplify the submission and handling of a complex internal document. It has a user submission section which handles initial form submission as well as a simpler general feedback area, as well as an administration section which is password protected and allows for managing inquiries and feedback, as well ouputting a pre-filled docx file.
 
-It was created for ThermaSolutions, a medical device manufacturer in Minnesota. 
+It was created for ThermaSolutions, a medical device manufacturer in Minnesota.
+
+## Heroku Deployment
+**This app is meant to be viewed on a mobile device after scanning a QR code. For the best experience, use a mobile device or change your browser screen size to mobile dimensions.**
+https://nameless-reaches-56635.herokuapp.com/#/home/1
+
 
 ## Walkthrough Video
 <a href="https://vimeo.com/831963264" target="_blank"><img src=./documentation/images/Screenshot3.png /></a>
